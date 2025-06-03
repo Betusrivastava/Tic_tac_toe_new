@@ -2,12 +2,11 @@
   "name": "Tic Tac Toe Docs",
   "favicon": "/Fevicon.png",
   "colors": {
-    "primary": "#1abc9c",
-    "accent": "#2ecc71"
+    "primary": "#1abc9c"
   },
   "navigation": [
     {
-      "section": "Getting Started",
+      "group": "Getting Started",
       "pages": ["intro"]
     }
   ],
