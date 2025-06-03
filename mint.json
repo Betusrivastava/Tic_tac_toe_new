@@ -1,5 +1,17 @@
 {
-  "docs": {
-    "path": "./docs"
+  "name": "Tic Tac Toe Docs",
+  "favicon": "/Fevicon.png",
+  "colors": {
+    "primary": "#1abc9c",
+    "accent": "#2ecc71"
+  },
+  "navigation": [
+    {
+      "section": "Getting Started",
+      "pages": ["intro"]
+    }
+  ],
+  "footer": {
+    "copyright": "© 2025 Betu Srivastava"
   }
 }
